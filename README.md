@@ -1,8 +1,8 @@
-# Rounce_etal2018_JGR_DebrisThicknessFromDEMDifferencing
+# Rounce_etal2018_JGR_DebrisThicknessDEMDifferencing
 This repository contains codes related to the flux divergence calculations and the MC-Ostrem inversion method for estimating debris thickness.
 ## Scripts:
-### Script 1
-Describe script...
+### SampleCode_Ngoz_Melt_LERain_Bands_2010_2012
+Matlab script containing the code that was used to derive debris thickness for Ngozumpa Glacier based on DEMs from 2010 and 2012.  The inputs required to run the code are all detailed at the start of the script.
 ### Script 2
 Describe script...
 

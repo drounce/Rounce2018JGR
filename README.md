@@ -10,4 +10,4 @@ Python notebook containing the code that was used to estimate the flux divergenc
 drounce@alaska.edu
 
 ## Reference:
-Rounce, D.R., King, O., McCarthy, M., Shean, D.E., and Salerno, F.: Quantifying debris thickness of debris-covered glaciers in the Everest region of Nepal through inversion of a sub-debris melt model, J. Geophys. res. Earth Surf., (in review), 2018.
+Rounce, D.R., King, O., McCarthy, M., Shean, D.E. and Salerno, F. (2018). Quantifying debris thickness of debris-covered glaciers in the Everest region of Nepal through inversion of a subdebris melt model, Journal of Geophysical Research: Earth Surface, 123(5):1095-1115, doi:10.1029/2017JF004395.
